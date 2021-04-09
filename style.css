@@ -1,0 +1,67 @@
+.coat_of_arms {
+	width: 10%;
+} 
+#title{
+	background-color: #bce6eb;
+}
+.navbar{
+	background-color: #eae3c8
+}
+@font-face{
+	font-family: haikakan;
+	src: url(fonts/ArianGrqiReg.ttf);
+}
+.armenian{
+	font-style: oblique;
+	font-family: haikakan;
+	font-size: 20px;
+	
+}
+#sectitle{
+	background-color:#ffdada;
+}
+footer {
+  text-align: right;
+  padding: 20px;
+ color: black;
+ background-color: #bbdfc8;
+  
+}
+
+.img-title {
+  margin: 10px;
+  padding: 1px;
+  box-shadow: 5px 5px 5px 5px grey;
+  opacity: 0.9;
+  transform: rotate(3deg);
+  width: 85%;
+}
+
+.img-title:hover {
+  transition-duration: 0.7s;
+  transition-timing-function: ease-in;
+  margin: 10px;
+  padding: 1px;
+  box-shadow: 5px 5px 5px 5px grey;
+  opacity: 1;
+  transform: rotate(0);
+  widows: 65%;
+}
+.far{
+	font-size: 20px;
+}
+
+
+#sectwo{
+	background-color: #bedbbb;
+}
+#imgca1{
+	width: 10px;
+}
+.features {
+  padding: 3%;
+  margin-left: 5%;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+}
